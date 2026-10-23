@@ -1,0 +1,28 @@
+[0.532s] Invoking command in '/home/mlf/Project/c/tonw_wn/src/village_li': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mlf/Project/c/tonw_wn/build/village_li/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mlf/Project/c/tonw_wn/install/village_li/lib/python3.14/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/village_li build --build-base /home/mlf/Project/c/tonw_wn/build/village_li/build install --record /home/mlf/Project/c/tonw_wn/build/village_li/install.log --install-scripts $base/lib/village_li --single-version-externally-managed install_data
+[0.718s] running egg_info
+[0.729s] writing ../../build/village_li/village_li.egg-info/PKG-INFO
+[0.729s] writing dependency_links to ../../build/village_li/village_li.egg-info/dependency_links.txt
+[0.730s] writing entry points to ../../build/village_li/village_li.egg-info/entry_points.txt
+[0.730s] writing requirements to ../../build/village_li/village_li.egg-info/requires.txt
+[0.730s] writing top-level names to ../../build/village_li/village_li.egg-info/top_level.txt
+[0.754s] reading manifest file '../../build/village_li/village_li.egg-info/SOURCES.txt'
+[0.755s] writing manifest file '../../build/village_li/village_li.egg-info/SOURCES.txt'
+[0.755s] running build
+[0.755s] running build_py
+[0.755s] copying village_li/__init__.py -> /home/mlf/Project/c/tonw_wn/build/village_li/build/lib/village_li
+[0.755s] copying village_li/li4.py -> /home/mlf/Project/c/tonw_wn/build/village_li/build/lib/village_li
+[0.755s] copying village_li/py.typed -> /home/mlf/Project/c/tonw_wn/build/village_li/build/lib/village_li
+[0.755s] running install
+[0.759s] running install_lib
+[0.769s] copying /home/mlf/Project/c/tonw_wn/build/village_li/build/lib/village_li/li4.py -> /home/mlf/Project/c/tonw_wn/install/village_li/lib/python3.14/site-packages/village_li
+[0.770s] byte-compiling /home/mlf/Project/c/tonw_wn/install/village_li/lib/python3.14/site-packages/village_li/li4.py to li4.cpython-314.pyc
+[0.770s] running install_data
+[0.770s] copying resource/village_li -> /home/mlf/Project/c/tonw_wn/install/village_li/share/ament_index/resource_index/packages
+[0.771s] copying package.xml -> /home/mlf/Project/c/tonw_wn/install/village_li/share/village_li
+[0.771s] running install_egg_info
+[0.782s] removing '/home/mlf/Project/c/tonw_wn/install/village_li/lib/python3.14/site-packages/village_li-0.0.0-py3.14.egg-info' (and everything under it)
+[0.782s] Copying ../../build/village_li/village_li.egg-info to /home/mlf/Project/c/tonw_wn/install/village_li/lib/python3.14/site-packages/village_li-0.0.0-py3.14.egg-info
+[0.782s] running install_scripts
+[0.838s] Installing li4_node script to /home/mlf/Project/c/tonw_wn/install/village_li/lib/village_li
+[0.838s] writing list of installed files to '/home/mlf/Project/c/tonw_wn/build/village_li/install.log'
+[0.866s] Invoked command in '/home/mlf/Project/c/tonw_wn/src/village_li' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mlf/Project/c/tonw_wn/build/village_li/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mlf/Project/c/tonw_wn/install/village_li/lib/python3.14/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/village_li build --build-base /home/mlf/Project/c/tonw_wn/build/village_li/build install --record /home/mlf/Project/c/tonw_wn/build/village_li/install.log --install-scripts $base/lib/village_li --single-version-externally-managed install_data

@@ -1,0 +1,30 @@
+[0.016s] Invoking command in '/home/mlf/Project/c/tonw_wn/build/village_wang': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/lyrical DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/mlf/Project/c/tonw_wn/build/village_wang -- -j12 -l12
+[0.050s] -- Found ament_cmake: 2.8.8 (/opt/ros/lyrical/share/ament_cmake/cmake)
+[0.402s] -- Found rclcpp: 32.0.3 (/opt/ros/lyrical/share/rclcpp/cmake)
+[0.440s] -- Found rosidl_generator_c: 5.2.1 (/opt/ros/lyrical/share/rosidl_generator_c/cmake)
+[0.447s] -- Found rosidl_generator_cpp: 5.2.1 (/opt/ros/lyrical/share/rosidl_generator_cpp/cmake)
+[0.458s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.469s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.539s] -- Found rmw_implementation_cmake: 7.10.2 (/opt/ros/lyrical/share/rmw_implementation_cmake/cmake)
+[0.540s] -- Found rmw_fastrtps_cpp: 9.4.10 (/opt/ros/lyrical/share/rmw_fastrtps_cpp/cmake)
+[0.570s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.650s] -- Found ament_lint_auto: 0.20.6 (/opt/ros/lyrical/share/ament_lint_auto/cmake)
+[0.796s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.797s] -- Configured cppcheck include dirs: 
+[0.797s] -- Configured cppcheck exclude dirs and/or files: 
+[0.797s] -- Added test 'lint_cmake' to check CMake code style
+[0.798s] -- Added test 'uncrustify' to check C / C++ code style
+[0.798s] -- Configured uncrustify additional arguments: 
+[0.799s] -- Added test 'xmllint' to check XML markup files
+[0.800s] -- Configuring done (0.8s)
+[0.815s] -- Generating done (0.0s)
+[0.843s] -- Build files have been written to: /home/mlf/Project/c/tonw_wn/build/village_wang
+[0.913s] [ 50%] [32mBuilding CXX object CMakeFiles/wang2_node.dir/src/wang2.cpp.o[0m
+[1.235s] [01m[K/home/mlf/Project/c/tonw_wn/src/village_wang/src/wang2.cpp:2:10:[m[K [01;31m[Kfatal error: [m[Kstd_msgs/msg/string.hpp: 没有那个文件或目录
+[1.235s]     2 | #include [01;31m[K"std_msgs/msg/string.hpp"[m[K
+[1.235s]       |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[1.235s] compilation terminated.
+[1.241s] gmake[2]: *** [CMakeFiles/wang2_node.dir/build.make:79：CMakeFiles/wang2_node.dir/src/wang2.cpp.o] 错误 1
+[1.242s] gmake[1]: *** [CMakeFiles/Makefile2:153：CMakeFiles/wang2_node.dir/all] 错误 2
+[1.242s] gmake: *** [Makefile:146：all] 错误 2
+[1.246s] Invoked command in '/home/mlf/Project/c/tonw_wn/build/village_wang' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/lyrical DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/mlf/Project/c/tonw_wn/build/village_wang -- -j12 -l12

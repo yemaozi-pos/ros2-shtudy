@@ -1,0 +1,17 @@
+/home/mlf/Project/c/tonw_wn/install/village_wang/lib/village_wang/wang2_node
+/home/mlf/Project/c/tonw_wn/install/village_wang/share/ament_index/resource_index/package_run_dependencies/village_wang
+/home/mlf/Project/c/tonw_wn/install/village_wang/share/ament_index/resource_index/parent_prefix_path/village_wang
+/home/mlf/Project/c/tonw_wn/install/village_wang/share/village_wang/environment/ament_prefix_path.sh
+/home/mlf/Project/c/tonw_wn/install/village_wang/share/village_wang/environment/ament_prefix_path.dsv
+/home/mlf/Project/c/tonw_wn/install/village_wang/share/village_wang/environment/path.sh
+/home/mlf/Project/c/tonw_wn/install/village_wang/share/village_wang/environment/path.dsv
+/home/mlf/Project/c/tonw_wn/install/village_wang/share/village_wang/local_setup.bash
+/home/mlf/Project/c/tonw_wn/install/village_wang/share/village_wang/local_setup.fish
+/home/mlf/Project/c/tonw_wn/install/village_wang/share/village_wang/local_setup.sh
+/home/mlf/Project/c/tonw_wn/install/village_wang/share/village_wang/local_setup.zsh
+/home/mlf/Project/c/tonw_wn/install/village_wang/share/village_wang/local_setup.dsv
+/home/mlf/Project/c/tonw_wn/install/village_wang/share/village_wang/package.dsv
+/home/mlf/Project/c/tonw_wn/install/village_wang/share/ament_index/resource_index/packages/village_wang
+/home/mlf/Project/c/tonw_wn/install/village_wang/share/village_wang/cmake/village_wangConfig.cmake
+/home/mlf/Project/c/tonw_wn/install/village_wang/share/village_wang/cmake/village_wangConfig-version.cmake
+/home/mlf/Project/c/tonw_wn/install/village_wang/share/village_wang/package.xml

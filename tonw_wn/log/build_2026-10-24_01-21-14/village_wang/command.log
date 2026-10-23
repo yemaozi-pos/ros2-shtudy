@@ -1,0 +1,2 @@
+Invoking command in '/home/mlf/Project/c/tonw_wn/build/village_wang': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/lyrical DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/mlf/Project/c/tonw_wn/build/village_wang -- -j12 -l12
+Invoked command in '/home/mlf/Project/c/tonw_wn/build/village_wang' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/lyrical DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/mlf/Project/c/tonw_wn/build/village_wang -- -j12 -l12

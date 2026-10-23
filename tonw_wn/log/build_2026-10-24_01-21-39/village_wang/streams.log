@@ -1,0 +1,10 @@
+[0.017s] Invoking command in '/home/mlf/Project/c/tonw_wn/build/village_wang': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/lyrical DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/mlf/Project/c/tonw_wn/build/village_wang -- -j12 -l12
+[0.104s] [ 50%] [32mBuilding CXX object CMakeFiles/wang2_node.dir/src/wang2.cpp.o[0m
+[0.450s] [01m[K/home/mlf/Project/c/tonw_wn/src/village_wang/src/wang2.cpp:2:10:[m[K [01;31m[Kfatal error: [m[Kstd_msgs/msg/string.hpp: 没有那个文件或目录
+[0.451s]     2 | #include [01;31m[K"std_msgs/msg/string.hpp"[m[K
+[0.451s]       |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[0.451s] compilation terminated.
+[0.456s] gmake[2]: *** [CMakeFiles/wang2_node.dir/build.make:79：CMakeFiles/wang2_node.dir/src/wang2.cpp.o] 错误 1
+[0.456s] gmake[1]: *** [CMakeFiles/Makefile2:153：CMakeFiles/wang2_node.dir/all] 错误 2
+[0.456s] gmake: *** [Makefile:146：all] 错误 2
+[0.461s] Invoked command in '/home/mlf/Project/c/tonw_wn/build/village_wang' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/lyrical DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/mlf/Project/c/tonw_wn/build/village_wang -- -j12 -l12

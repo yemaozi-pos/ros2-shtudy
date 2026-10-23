@@ -1,0 +1,26 @@
+[0.024s] Invoking command in '/home/mlf/Project/c/tonw_wn/build/village_wang': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mlf/Project/c/tonw_wn/install/village_li:/opt/ros/lyrical DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/mlf/Project/c/tonw_wn/build/village_wang -- -j12 -l12
+[0.107s] [ 50%] [32mBuilding CXX object CMakeFiles/wang2_node.dir/src/wang2.cpp.o[0m
+[10.623s] [100%] [1m[32mLinking CXX executable wang2_node[0m
+[10.979s] [100%] Built target wang2_node
+[10.997s] Invoked command in '/home/mlf/Project/c/tonw_wn/build/village_wang' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mlf/Project/c/tonw_wn/install/village_li:/opt/ros/lyrical DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/mlf/Project/c/tonw_wn/build/village_wang -- -j12 -l12
+[11.011s] Invoking command in '/home/mlf/Project/c/tonw_wn/build/village_wang': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mlf/Project/c/tonw_wn/install/village_li:/opt/ros/lyrical DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/mlf/Project/c/tonw_wn/build/village_wang
+[11.021s] -- Install configuration: ""
+[11.021s] -- Installing: /home/mlf/Project/c/tonw_wn/install/village_wang/lib/village_wang/wang2_node
+[11.027s] -- Set non-toolchain portion of runtime path of "/home/mlf/Project/c/tonw_wn/install/village_wang/lib/village_wang/wang2_node" to ""
+[11.028s] -- Up-to-date: /home/mlf/Project/c/tonw_wn/install/village_wang/share/ament_index/resource_index/package_run_dependencies/village_wang
+[11.028s] -- Up-to-date: /home/mlf/Project/c/tonw_wn/install/village_wang/share/ament_index/resource_index/parent_prefix_path/village_wang
+[11.028s] -- Up-to-date: /home/mlf/Project/c/tonw_wn/install/village_wang/share/village_wang/environment/ament_prefix_path.sh
+[11.028s] -- Up-to-date: /home/mlf/Project/c/tonw_wn/install/village_wang/share/village_wang/environment/ament_prefix_path.dsv
+[11.028s] -- Up-to-date: /home/mlf/Project/c/tonw_wn/install/village_wang/share/village_wang/environment/path.sh
+[11.029s] -- Up-to-date: /home/mlf/Project/c/tonw_wn/install/village_wang/share/village_wang/environment/path.dsv
+[11.029s] -- Up-to-date: /home/mlf/Project/c/tonw_wn/install/village_wang/share/village_wang/local_setup.bash
+[11.029s] -- Up-to-date: /home/mlf/Project/c/tonw_wn/install/village_wang/share/village_wang/local_setup.fish
+[11.029s] -- Up-to-date: /home/mlf/Project/c/tonw_wn/install/village_wang/share/village_wang/local_setup.sh
+[11.029s] -- Up-to-date: /home/mlf/Project/c/tonw_wn/install/village_wang/share/village_wang/local_setup.zsh
+[11.029s] -- Up-to-date: /home/mlf/Project/c/tonw_wn/install/village_wang/share/village_wang/local_setup.dsv
+[11.030s] -- Installing: /home/mlf/Project/c/tonw_wn/install/village_wang/share/village_wang/package.dsv
+[11.030s] -- Up-to-date: /home/mlf/Project/c/tonw_wn/install/village_wang/share/ament_index/resource_index/packages/village_wang
+[11.030s] -- Up-to-date: /home/mlf/Project/c/tonw_wn/install/village_wang/share/village_wang/cmake/village_wangConfig.cmake
+[11.030s] -- Up-to-date: /home/mlf/Project/c/tonw_wn/install/village_wang/share/village_wang/cmake/village_wangConfig-version.cmake
+[11.030s] -- Up-to-date: /home/mlf/Project/c/tonw_wn/install/village_wang/share/village_wang/package.xml
+[11.031s] Invoked command in '/home/mlf/Project/c/tonw_wn/build/village_wang' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mlf/Project/c/tonw_wn/install/village_li:/opt/ros/lyrical DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/mlf/Project/c/tonw_wn/build/village_wang
